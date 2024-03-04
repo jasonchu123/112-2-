@@ -4,5 +4,5 @@
 系級：科技系115級
 # 課程筆記區
 # 作業連結區
-作業一(https://youtu.be/AWD80X-3aig)
+作業一[https://youtu.be/AWD80X-3aig]
 # 專題連結區
